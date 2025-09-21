@@ -1,0 +1,24 @@
+Job Title: Data Analyst
+
+Qualifications:
+- B.Tech / BE in Computer Science, Statistics, or related field
+- Strong analytical and problem-solving skills
+
+Must-have Skills:
+- Python
+- SQL
+- Excel
+- Data Visualization
+- Statistics
+
+Good-to-have Skills:
+- Machine Learning
+- Tableau
+- Power BI
+- Pandas
+- NumPy
+
+Responsibilities:
+- Analyze large datasets and generate insights
+- Create dashboards and reports for stakeholders
+- Work with cross-functional teams to understand data requirements

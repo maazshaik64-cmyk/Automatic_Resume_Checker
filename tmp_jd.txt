@@ -1,0 +1,40 @@
+Axion Ray’s mission is to improve the quality and safety of engineered 
+products - airplanes, electric vehicles, and medical devices, by creating the 
+world’s best proactive management platform, powered by the latest 
+advances in artificial intelligence. We're revolutionizing the way next-gen 
+vehicles are made and are partnering with forward-looking engineering 
+leaders to create and deploy AI models that will accelerate our speed to an 
+electric and supersonic future. Axion leverages bleeding-edge tech & AI 
+stack - including Generative AI and NLP/LLMs - to solve real-world 
+problems. 
+Our team includes experts in Enterprise AI from Palantir, McKinsey & 
+QuantumBlack, and other top tech companies. 
+Since our founding at the onset of 2021, we’ve deployed across some of 
+the largest Automotive and Aerospace companies in the world. If you want 
+the chance to help build the future of engineering, join us! 
+What you will do 
+● Understand manufacturing data from clients, and devise strategies to 
+solve pain points and add business value. 
+● Work on data exploration, analysis, and automation of data cleaning 
+tasks. 
+● Work with the data science and product team to generate required 
+insights on the client’s data. 
+Who you are 
+● Bachelor's degree in 
+Mechanical/Automotive/Production/Manufacturing engineering. 
+● Has at least one year of experience in a manufacturing company. 
+● Can understand, interpret and define the relationship among entities 
+in Manufacturing data, and technical statements. 
+● Can work on engagements from understanding the business 
+objective through data exploration, identification, and validation. 
+● Can collaborate with stakeholders including machine learning 
+engineers, data scientists, data engineers, and product managers 
+● Experience in working on Excel sheets or other interfaces for 
+processing large amounts of data that is available in documents. 
+● Experience in Python(Pandas)/R 
+Axion Ray is an Equal Opportunity / Affirmative Action employer committed 
+to diversity in the workplace. All qualified applicants will receive 
+consideration for employment without regard to race, color, religion, sex, 
+sexual orientation, age, national origin, disability, protected veteran status, 
+gender identity, or any other factor protected by applicable federal, state, or 
+local laws.

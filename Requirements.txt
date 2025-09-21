@@ -1,0 +1,12 @@
+streamlit
+pymupdf
+pdfplumber
+python-docx
+rapidfuzz
+numpy
+sentence-transformers
+transformers
+huggingface_hub
+
+
+
